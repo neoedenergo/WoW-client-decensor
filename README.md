@@ -1,4 +1,7 @@
-# WoW-client-decensor
+## If you are on GitHub this is a mirror, the original repository with the latest updates is at [https://forgejo.neoeden.org/ergo/wow-client-decensor](https://forgejo.neoeden.org/ergo/wow-client-decensor
+)
+---
+
 Patches to remove censorship of words from WoW clients.
 
 The WoW client has hardcoded a lot of censorship of thousands of words, like all names of countries, names of cities, names of brands, names of celebrities, etc.
